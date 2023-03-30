@@ -9,6 +9,7 @@
     "outDir": "dist",
     "baseUrl": ".",
     "resolveJsonModule":true,
+    "allowJs":true,
     "paths": {
       "@/*": ["src/*"]
     }
