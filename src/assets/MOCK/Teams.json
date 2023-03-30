@@ -1,0 +1,52 @@
+[
+    {
+        "id":"1",
+        "name":"Maccabi haifa",
+        "leagueId":"1"
+    },
+    {
+        "id":"2",
+        "name":"Hapoel tel aviv",
+        "leagueId":"1"
+    },
+    {
+        "id":"3",
+        "name":"Maccabi Tel aviv",
+        "leagueId":"1"
+    },
+    {
+        "id":"3",
+        "name":"Beitar Jerusalem",
+        "leagueId":"1"
+    },
+    {
+        "id":"4",
+        "name":"Bnei Sakhnin",
+        "leagueId":"1"
+    },
+    {
+        "id":"5",
+        "name":"Hapoel Jerusalem",
+        "leagueId":"1"
+    },
+    {
+        "id":"6",
+        "name":"Maccabi Natanya",
+        "leagueId":"1"
+    },
+    {
+        "id":"7",
+        "name":"Maccabi Petakh Tiqwa",
+        "leagueId":"1"
+    },
+    {
+        "id":"8",
+        "name":"Hapoel Petakh Tiqwa",
+        "leagueId":"1"
+    },
+    {
+        "id":"9",
+        "name":"Hapoel Kefar Saba",
+        "leagueId":"1"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "name":"Israel Premier League",
+        "nationId":"1"
+    },
+    {
+        "id":"2",
+        "name":"Israel Second League",
+        "nationId":"1"
+    },
+    {
+        "id":"3",
+        "name":"English Premier League",
+        "nationId":"2"
+        
+    },
+    {
+        "id":"4",
+        "name":"Spanish Premier League",
+        "nationId":"3"
+
+    },
+    {
+        "id":"5",
+        "name":"Italian Premier League",
+        "nationId":"4"
+
+    }
+]

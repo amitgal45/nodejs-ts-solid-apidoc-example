@@ -1,0 +1,212 @@
+[
+    {
+        "id":"1",
+        "name":"Player name 1",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"2",
+        "name":"Player name 2",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"3",
+        "name":"Player name 3",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"4",
+        "name":"Player name 4",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"5",
+        "name":"Player name 5",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"6",
+        "name":"Player name 6",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"7",
+        "name":"Player name 7",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"8",
+        "name":"Player name 8",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"9",
+        "name":"Player name 9",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"10",
+        "name":"Player name 10",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"11",
+        "name":"Player name 11",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"12",
+        "name":"Player name 12",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"13",
+        "name":"Player name 13",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"14",
+        "name":"Player name 14",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"15",
+        "name":"Player name 15",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"16",
+        "name":"Player name 16",
+        "role":"CF",
+        "teamId":"1"
+    },
+    {
+        "id":"17",
+        "name":"Player name 17",
+        "role":"CF",
+        "teamId":"1"
+    },
+    {
+        "id":"18",
+        "name":"Player name 18",
+        "role":"CB",
+        "teamId":"1"
+    },
+    {
+        "id":"19",
+        "name":"Player name 19",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"20",
+        "name":"Player name 20",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"21",
+        "name":"Player name 21",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"21",
+        "name":"Player name 21",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"23",
+        "name":"Player name 23",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"6",
+        "name":"Player name 6",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"7",
+        "name":"Player name 7",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"24",
+        "name":"Player name 24",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"24",
+        "name":"Player name 24",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"25",
+        "name":"Player name 25",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"26",
+        "name":"Player name 26",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"27",
+        "name":"Player name 27",
+        "role":"GK",
+        "teamId":"1"
+    },
+    {
+        "id":"28",
+        "name":"Player name 28",
+        "role":"GK",
+        "teamId":"2"
+    },
+    {
+        "id":"29",
+        "name":"Player name 29",
+        "role":"GK",
+        "teamId":"2"
+    },
+    {
+        "id":"30",
+        "name":"Player name 30",
+        "role":"GK",
+        "teamId":"2"
+    },
+    {
+        "id":"31",
+        "name":"Player name 31",
+        "role":"CF",
+        "teamId":"2"
+    },
+    {
+        "id":"32",
+        "name":"Player name 32",
+        "role":"CF",
+        "teamId":"2"
+    }
+]
