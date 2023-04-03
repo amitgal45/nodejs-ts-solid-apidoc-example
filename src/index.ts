@@ -7,8 +7,8 @@ const PORT = process.env.PORT || 3000;
 const app = AppFactory.create();
 
 const doc = createDoc({
-  src: path.resolve(__dirname, ""),
-  dest: path.resolve(__dirname, "doc"), // can be omitted if dryRun is true
+  src: path.resolve(__dirname, "/src"),
+  dest: path.resolve(__dirname, "/doc"), // can be omitted if dryRun is true
   // if you don't want to generate the output files:
   dryRun: false,
   // if you don't want to see any log output:
@@ -21,7 +21,7 @@ if (typeof doc !== "boolean") {
   console.log(doc.project); // the project information
 }
 
-app.use("/", express.static(__dirname+ "/doc"));
+app.use('/img',express.static(path.join(__dirname, '/doc')));
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
 });
