@@ -8,9 +8,9 @@
    * @apiGroup Team
    *
    * @apiSuccess {Array} teams Teams Array
-   * @apiSuccess {String} teams.id Id of the League.
-   * @apiSuccess {String} teams.name Name of the League.
-   * @apiSuccess {String} teams.leagueId  Id of the Nation.
+   * @apiSuccess {String} teams.id Id of the Team.
+   * @apiSuccess {String} teams.name Name of the Team.
+   * @apiSuccess {String} teams.leagueId  Id of the League.
    */
 // ###############################
 
@@ -23,11 +23,28 @@
    * @apiName GetTeamById
    * @apiGroup Team
    *
-   * @apiParam {String} id League's unique ID.
+   * @apiParam {String} id Team's unique ID.
    *
-   * @apiSuccess {String} id Id of the League.
-   * @apiSuccess {String} name Name of the League.
-   * @apiSuccess {String} leagueId  Id of the Nation.
+   * @apiSuccess {String} id Id of the Team.
+   * @apiSuccess {String} name Name of the Team.
+   * @apiSuccess {String} leagueId  Id of the League.
+
+   */
+// ###############################
+
+// ###############################
+// ### GET - /api/team/:id/player
+// ###############################
+      /**
+   * @api {get} /api/team/:id/player Get Players by team id
+   * @apiName GetPlayersByTeamId
+   * @apiGroup Team
+   *
+   * @apiParam {String} id Team's unique ID.
+   *
+   * @apiSuccess {String} id Id of the Team.
+   * @apiSuccess {String} name Name of the Team.
+   * @apiSuccess {String} leagueId  Id of the League.
 
    */
 // ###############################
@@ -41,13 +58,13 @@
    * @apiName AddTeam
    * @apiGroup Team
    * 
-   * @apiBody {String} name Name of the League.
-   * @apiBody {String} leagueId  Id of the Nation.
+   * @apiBody {String} name Name of the Team.
+   * @apiBody {String} leagueId  Id of the League.
    *
    * @apiSuccess {Object} teams Teams Array
-   * @apiSuccess {String} teams.id Id of the League.
+   * @apiSuccess {String} teams.id Id of the Team.
    * @apiSuccess {String} teams.name Name of the League.
-   * @apiSuccess {String} teams.leagueId  Id of the Nation.
+   * @apiSuccess {String} teams.leagueId  Id of the League.
    */
 // ###############################
 
@@ -61,13 +78,13 @@
    * 
     * @apiParam {String} id id of the Team.
    * 
-   * @apiBody {String} name Name of the League.
-   * @apiBody {String} leagueId  Id of the Nation.
+   * @apiBody {String} name Name of the Team.
+   * @apiBody {String} leagueId  Id of the League.
    *
    * @apiSuccess {Object} teams Teams Array
-   * @apiSuccess {String} teams.id Id of the League.
-   * @apiSuccess {String} teams.name Name of the League.
-   * @apiSuccess {String} teams.leagueId  Id of the Nation.
+   * @apiSuccess {String} teams.id Id of the Team.
+   * @apiSuccess {String} teams.name Name of the Team.
+   * @apiSuccess {String} teams.leagueId  Id of the League.
    */
 // ###############################
 
