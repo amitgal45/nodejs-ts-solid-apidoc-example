@@ -20,7 +20,8 @@ if (typeof doc !== "boolean") {
   console.log(doc.data); // the parsed api documentation object
   console.log(doc.project); // the project information
 }
-app.use("/", express.static("src/doc"));
+
+app.use("/", express.static(__dirname+ "/doc"));
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
 });
