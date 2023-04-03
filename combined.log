@@ -863,3 +863,9 @@
 {"level":"info","message":"GET /assets/bootstrap.min.css?v=1680521318356 200 121457 - 7.619 ms","service":"my-app"}
 {"level":"info","message":"GET /assets/main.bundle.js?v=1680521318356 200 409077 - 9.799 ms","service":"my-app"}
 {"level":"info","message":"GET /assets/favicon.ico?v=1680521318356 200 24838 - 2.600 ms","service":"my-app"}
+{"level":"info","message":"GET / 200 39743 - 13.450 ms","service":"my-app"}
+{"level":"info","message":"GET /assets/bootstrap.min.css?v=1680521318356 200 121457 - 1.389 ms","service":"my-app"}
+{"level":"info","message":"GET /assets/main.css?v=1680521318356 200 9631 - 0.978 ms","service":"my-app"}
+{"level":"info","message":"GET /assets/prism.css?v=1680521318356 200 1766 - 2.466 ms","service":"my-app"}
+{"level":"info","message":"GET /assets/main.bundle.js?v=1680521318356 200 409077 - 1.906 ms","service":"my-app"}
+{"level":"info","message":"GET /assets/favicon.ico?v=1680521318356 200 24838 - 2.282 ms","service":"my-app"}
