@@ -21,7 +21,7 @@ if (typeof doc !== "boolean") {
   console.log(doc.project); // the project information
 }
 
-app.use('/img',express.static(path.join(__dirname, '/doc')));
+app.use('/img',express.static(__dirname+ '/doc'));
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
 });
