@@ -19,6 +19,14 @@ class PlayerService {
     return this.PLAYERS[index];
   }
 
+  findAllTeamPlayers(teamId:string) {
+    const arr:any[] = [];
+    this.PLAYERS.forEach((team) => {
+      if (teamId === team.teamId) arr.push(team);
+    });
+    return arr;
+  }
+
   create({ name, teamId, role }: any) {
     const player = { id: Date.now() + "", name: name, teamId, role };
     this.PLAYERS.push(player);

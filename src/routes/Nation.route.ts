@@ -1,4 +1,4 @@
-import { nationController } from "../controllers/Nation.controller";
+import { nationController } from "../controllers/Nation";
 import { Router } from "express";
 
 const router = Router();

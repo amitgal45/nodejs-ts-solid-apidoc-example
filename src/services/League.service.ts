@@ -17,12 +17,6 @@ class LeagueService {
       if (nationId === league.nationId) arr.push(league);
     });
     return arr;
-    // return this.LEAGUE.forEach((league)=>{
-    //     if(league[key]===value){
-    //         arr.push(league)
-    //     }
-    // })
-    // return this.LEAGUE;
   }
 
   findById(id: string) {

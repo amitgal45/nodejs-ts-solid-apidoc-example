@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { rootService } from "../services";
+import { rootService } from "../../services";
 
 class PlayerController {
   findAll(req: Request, res: Response) {

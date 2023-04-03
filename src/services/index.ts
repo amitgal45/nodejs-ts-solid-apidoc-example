@@ -5,15 +5,15 @@ import { teamService } from "./Team.service";
 
 leagueService
 
-interface IRootService{
-    LeagueService:typeof leagueService;
-    NationService:typeof nationService;
-    PlayerService:typeof playerService;
-    TeamService:typeof teamService;
+// interface IRootService{
+//     LeagueService:LeagueService;
+//     NationService:LeagueService;
+//     PlayerService:LeagueService;
+//     TeamService:TeamService;
 
-}
+// }
 
-class RootService implements IRootService {
+class RootService {
     LeagueService=leagueService;
     NationService=nationService;
     PlayerService=playerService;

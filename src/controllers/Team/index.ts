@@ -1,14 +1,25 @@
-import { teamService } from "../services/Team.service";
+import { teamService } from "../../services/Team.service";
 import { Request, Response } from "express";
-import { rootService } from "../services";
+import { rootService } from "../../services";
 
 class TeamController {
   findAll(req: Request, res: Response) {
     res.status(200).json(teamService.TEAM);
   }
+
   findById(req: Request, res: Response) {
     try {
       const user = rootService.TeamService.findById(req.params.id);
+      res.status(200).json(user);
+    } catch (err) {
+      if (err.message === "NOT_FOUND") {
+        res.status(500).json({ message: err.message });
+      }
+    }
+  }
+  findAllTeamPlayers(req: Request, res: Response) {
+    try {
+      const user = rootService.PlayerService.findAllTeamPlayers(req.params.id);
       res.status(200).json(user);
     } catch (err) {
       if (err.message === "NOT_FOUND") {

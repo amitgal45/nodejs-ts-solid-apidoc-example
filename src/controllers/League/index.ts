@@ -1,19 +1,23 @@
+import { teamService } from "../../services/Team.service";
+import { rootService } from "../../services";
 import { Request, Response } from "express";
-import { rootService } from "../services";
 
-class NationController {
+class LeagueController {
+
   findAll(req: Request, res: Response) {
-    res.status(200).json(rootService.NationService.NATIONS);
+    res.status(200).json(rootService.LeagueService.LEAGUE);
   }
+
   create(req: Request, res: Response) {
     const body = req.body;
-    const newLeague = rootService.NationService.create(body);
+    const newLeague = rootService.LeagueService.create(body);
     res.status(200).json(newLeague);
   }
+
   findById(req: Request, res: Response) {
     try {
       const id = req.params.id;
-      const user = rootService.NationService.findById(id);
+      const user = rootService.LeagueService.findById(id);
       res.status(200).json(user);
     } catch (err) {
       if (err.message === "NOT_FOUND") {
@@ -21,22 +25,24 @@ class NationController {
       }
     }
   }
-  findAllLeagueById(req: Request, res: Response) {
+
+  findAllTeamsById(req: Request, res: Response) {
     try {
       const id = req.params.id;
-      const leagues = rootService.LeagueService.findAllByByNationId(id);
-      res.status(200).json(leagues);
+      const teams = teamService.findAllByLeagueId(id);
+      res.status(200).json(teams);
     } catch (err) {
       if (err.message === "NOT_FOUND") {
         res.status(500).json({ message: err.message });
       }
     }
   }
+
   update(req: Request, res: Response) {
     try {
       const id = req.params.id;
       const body = req.body;
-      const newLeague = rootService.NationService.update(id, body);
+      const newLeague = rootService.LeagueService.update(id, body);
       res.status(200).json(newLeague);
     } catch (err) {
       if (err.message === "NOT_FOUND") {
@@ -44,10 +50,11 @@ class NationController {
       }
     }
   }
+
   delete(req: Request, res: Response) {
     try {
       const id = req.params.id;
-      const newLeague = rootService.NationService.delete(id);
+      const newLeague = rootService.LeagueService.delete(id);
       res.status(200).json(newLeague);
     } catch (err) {
       if (err.message === "NOT_FOUND") {
@@ -56,4 +63,4 @@ class NationController {
     }
   }
 }
-export const nationController = new NationController();
+export const leagueController = new LeagueController();
