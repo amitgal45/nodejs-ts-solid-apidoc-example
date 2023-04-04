@@ -2,7 +2,7 @@
 // ### GET - /api/nation
 // ###############################
   /**
-   * @api {get} /api/nation Get All nations
+   * @api {get} /api/nation Get All
    * @apiName GetNations
    * @apiGroup Nation
    * @apiSuccess {Object[]} nations List of Nations.
@@ -15,7 +15,7 @@
 // ### GET - /api/nation/:id
 // ###############################
   /**
-   * @api {get} /api/nation/:id Get Nation by Id
+   * @api {get} /api/nation/:id Get by Id
    * @apiName GetNationById
    * @apiGroup Nation
    * 
@@ -31,7 +31,7 @@
 // ### GET - /api/nation/:id/league
 // ###############################
   /**
-   * @api {get} /api/nation/:id/league Get Leagues by nation ID
+   * @api {get} /api/nation/:id/league Get Leagues by id
    * @apiName GetLeagueByNationId
    * @apiGroup Nation
    *
@@ -49,9 +49,11 @@
 // ### POST - /api/nation
 // ###############################
   /**
-   * @api {post} /api/nation Create Nation model
+   * @api {post} /api/nation Add nation
    * @apiName CreateNation
    * @apiGroup Nation
+   * 
+   * @apiBody {String} name Name of the Nation.
    *
    * @apiSuccess {Object} nation Nation Object
    * @apiSuccess {String} nation.id Id of the Nation.
@@ -65,7 +67,7 @@
 // ### PUT - /api/nation/:id
 // ###############################
   /**
-   * @api {put} /api/nation/:id Update Nation
+   * @api {put} /api/nation/:id Update by Id
    * @apiName PutNation
    * @apiGroup Nation
    *
@@ -84,7 +86,7 @@
 // ### DELETE - /api/nation
 // ###############################
   /**
-   * @api {delete} /api/nation/:id Delete League
+   * @api {delete} /api/nation/:id Delete by Id
    * @apiName DeleteNation
    * @apiGroup Nation
    *
