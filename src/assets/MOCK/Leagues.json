@@ -1,17 +1,12 @@
 [
     {
         "id":"1",
-        "name":"Israel Premier League",
-        "nationId":"1"
-    },
-    {
-        "id":"2",
-        "name":"Israel Second League",
+        "name":"ליגת העל",
         "nationId":"1"
     },
     {
         "id":"3",
-        "name":"English Premier League",
+        "name":"ליגה אנגלית ראשונה",
         "nationId":"2"
         
     },
@@ -26,5 +21,16 @@
         "name":"Italian Premier League",
         "nationId":"4"
 
+    },
+    {
+        "id":"10",
+        "name":"ליגה ספרדית ראשונה",
+        "nationId":"3"
+    },
+    {
+        "id":"2",
+        "name":"ליגה לאומית",
+        "nationId":"1"
     }
+    
 ]

@@ -1,3 +1,4 @@
+import { rootService } from ".";
 import json from "../assets/MOCK/Teams.json";
 class TeamService {
   public TEAM = json;
@@ -23,13 +24,13 @@ class TeamService {
     return this.TEAM[index];
   }
 
-  create({ name, leagueId }: any) {
-    const league = { id: Date.now() + "", name: name, leagueId };
+  create({ name, leagueId,budget,place,points,losses,draws,ratios,wins,games }: any) {
+    const league = { id: Date.now() + "", name: name, leagueId,budget,place,points,losses,draws,ratios,wins,games };
     this.TEAM.push(league);
     return league;
   }
 
-  update(id: string, body: { name: string; leagueId: string }) {
+  update(id: string, body: { name: string; leagueId: string;budget:number;place:string;points:string;losses:string;draws:string,ratios:string,wins:string,games:string }) {
     const index = this.TEAM.findIndex((team) => team.id === id);
     if (index === -1) {
       const error = new Error("NOT_FOUND");

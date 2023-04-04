@@ -1,3 +1,4 @@
+import { rootService } from ".";
 import json from "../assets/MOCK/Players.json";
 class PlayerService {
   public PLAYERS = json;
@@ -19,6 +20,20 @@ class PlayerService {
     return this.PLAYERS[index];
   }
 
+  transfer(playerId:string,teamId:string){
+    const player = this.findById(playerId);
+    const team = rootService.TeamService.findById(teamId);
+    if (team.budget < player.market_value) {
+      const error = new Error("TRANSFER_BUGDET_LOW");
+      throw error;
+    }
+    const sellingTeam = rootService.TeamService.findById(player.teamId);
+    rootService.TeamService.update(player.teamId,{...sellingTeam,budget:sellingTeam.budget+player.market_value} as any);
+    rootService.TeamService.update(teamId,{budget:sellingTeam.budget-player.market_value} as any)
+    return this.update(player.id, {...player,teamId:team.id});
+
+  }
+  
   findAllTeamPlayers(teamId:string) {
     const arr:any[] = [];
     this.PLAYERS.forEach((team) => {
@@ -27,8 +42,8 @@ class PlayerService {
     return arr;
   }
 
-  create({ name, teamId, role }: any) {
-    const player = { id: Date.now() + "", name: name, teamId, role };
+  create({ name, teamId, role,market_value,kitNumber,img }: any) {
+    const player = { id: Date.now() + "", name: name, teamId, role,market_value,kitNumber,img };
     this.PLAYERS.push(player);
     return player;
   }

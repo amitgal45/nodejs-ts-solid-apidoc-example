@@ -21,6 +21,22 @@ class PlayerController {
     const newLeague = rootService.PlayerService.create(body);
     res.status(200).json(newLeague);
   }
+
+  transferPlayer(req: Request, res: Response) {
+    try {
+      const id = req.params.id;
+      const teamId = req.body.teamId;
+      const transfer = rootService.PlayerService.transfer(id, teamId);
+      res.status(200).json(transfer);
+    } catch (err) {
+      if (err.message === "NOT_FOUND") {
+        res.status(500).json({ message: err.message });
+      } else if (err.message === "TRANSFER_BUGDET_LOW") {
+        res.status(500).json({ message: err.message });
+      }
+    }
+  }
+
   update(req: Request, res: Response) {
     try {
       const id = req.params.id;
