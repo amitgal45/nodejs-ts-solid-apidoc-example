@@ -8585,6 +8585,4911 @@
             "role": "שוער",
             "market_value": 30000,
             "teamId": "5853"
+          },
+          {
+            "id": "50589",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665503.webp')",
+            "kitNumber": "28",
+            "name": "לוקאש סקורופסקי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "41283",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665514.webp')",
+            "kitNumber": "1",
+            "name": "פרנצ'סקו בארדי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "67366",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665510.webp')",
+            "kitNumber": "23",
+            "name": "ניקולה באגנולימי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "35435",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665504.webp')",
+            "kitNumber": "29",
+            "name": "לורנצו דה סילבסטרי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "31252",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665487.webp')",
+            "kitNumber": "5",
+            "name": "אדאמה סומאורו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "59119",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665515.webp')",
+            "kitNumber": "14",
+            "name": "קווין בוניפאצי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "58983",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665500.webp')",
+            "kitNumber": "22",
+            "name": "חראלמפוס ליקויאניס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "66336",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665488.webp')",
+            "kitNumber": "50",
+            "name": "אנדראה קמביאסו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "67361",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665498.webp')",
+            "kitNumber": "66",
+            "name": "וויסדום אמיי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "67363",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/948273.webp')",
+            "kitNumber": "0",
+            "name": "ריקארדו סטיבאנלו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "62308",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665495.webp')",
+            "kitNumber": "26",
+            "name": "ג'ון לוקומי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "46492",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664650.webp')",
+            "kitNumber": "29",
+            "name": "ניקולה מורו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "60276",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665513.webp')",
+            "kitNumber": "3",
+            "name": "סטפן פוש",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "68743",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665499.webp')",
+            "kitNumber": "4",
+            "name": "חואקין סוסה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "62265",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665490.webp')",
+            "kitNumber": "77",
+            "name": "גאורגיוס קיריקופולוס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "42677",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665492.webp')",
+            "kitNumber": "17",
+            "name": "גארי מדל",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "39228",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665516.webp')",
+            "kitNumber": "21",
+            "name": "רוברטו סוריאנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "62015",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665501.webp')",
+            "kitNumber": "30",
+            "name": "ירדי שחאוטן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "62250",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665508.webp')",
+            "kitNumber": "8",
+            "name": "ניקולאס דומינגס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "66837",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665502.webp')",
+            "kitNumber": "19",
+            "name": "לואיס פרגוסון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "60136",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665506.webp')",
+            "kitNumber": "20",
+            "name": "מיכל אביצ'ר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "67364",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665518.webp')",
+            "kitNumber": "82",
+            "name": "רספר אורבנסקי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "46577",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665512.webp')",
+            "kitNumber": "10",
+            "name": "ניקולה סנסונה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "39381",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665507.webp')",
+            "kitNumber": "9",
+            "name": "מרקו ארנאוטוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "58408",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665517.webp')",
+            "kitNumber": "7",
+            "name": "ריקרדו אורסוליני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "59015",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665505.webp')",
+            "kitNumber": "99",
+            "name": "מוסא בארו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "65435",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665489.webp')",
+            "kitNumber": "18",
+            "name": "אנטוניו ריימונדו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "62913",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665497.webp')",
+            "kitNumber": "0",
+            "name": "ג'ושוע זירקזי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "105"
+          },
+          {
+            "id": "46486",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664563.webp')",
+            "kitNumber": "1",
+            "name": "פייטרו טראצ'אנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "68143",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664557.webp')",
+            "kitNumber": "31",
+            "name": "מיקלה צ'רופוליני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "53461",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664039.webp')",
+            "kitNumber": "95",
+            "name": "פיירלואיג'י גוליני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "40282",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664561.webp')",
+            "kitNumber": "30",
+            "name": "סלבטורה סיריגו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "58925",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664558.webp')",
+            "kitNumber": "4",
+            "name": "ניקולה מילנקוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "57936",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664556.webp')",
+            "kitNumber": "23",
+            "name": "לורנצו ונוטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "63065",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664534.webp')",
+            "kitNumber": "98",
+            "name": "איגור",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "66792",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664538.webp')",
+            "kitNumber": "15",
+            "name": "אלכסה טרזיץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "64657",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664553.webp')",
+            "kitNumber": "28",
+            "name": "לוקאס קווארטה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "62362",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664548.webp')",
+            "kitNumber": "2",
+            "name": "דודו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "62119",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664554.webp')",
+            "kitNumber": "16",
+            "name": "לוקה ראניירי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "44576",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664551.webp')",
+            "kitNumber": "3",
+            "name": "כריסטיאנו ביראגי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "48562",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664542.webp')",
+            "kitNumber": "32",
+            "name": "אלפרד דאנקן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "58387",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664560.webp')",
+            "kitNumber": "34",
+            "name": "סופיאן אמרבאט",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "62175",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664547.webp')",
+            "kitNumber": "10",
+            "name": "גייטאנו קסטרווילי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "60111",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664559.webp')",
+            "kitNumber": "22",
+            "name": "ניקולס גונזלס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "41126",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664545.webp')",
+            "kitNumber": "5",
+            "name": "ג'אקומו בונאבנטורה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "50338",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664566.webp')",
+            "kitNumber": "8",
+            "name": "ריקרדו ספונארה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "53622",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664564.webp')",
+            "kitNumber": "38",
+            "name": "רולאנדו מנדראגורה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "66332",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664541.webp')",
+            "kitNumber": "42",
+            "name": "אלסנדרו ביאנקו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "58096",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664543.webp')",
+            "kitNumber": "72",
+            "name": "אנטונין באראק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "56972",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664546.webp')",
+            "kitNumber": "11",
+            "name": "ג'ונתן אייקונה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "60321",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664565.webp')",
+            "kitNumber": "33",
+            "name": "ריקרדו סוטיל",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "67167",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664544.webp')",
+            "kitNumber": "9",
+            "name": "ארתור קבראל",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "55871",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664555.webp')",
+            "kitNumber": "7",
+            "name": "לוקה יוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "60117",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664550.webp')",
+            "kitNumber": "99",
+            "name": "כריסטיאן קוואמה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "56714",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664549.webp')",
+            "kitNumber": "21",
+            "name": "יוסיפ ברקאלו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "106"
+          },
+          {
+            "id": "54542",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665550.webp')",
+            "kitNumber": "23",
+            "name": "אנדרה אונאנה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "35780",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665565.webp')",
+            "kitNumber": "1",
+            "name": "סמיר הנדנוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "38233",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665561.webp')",
+            "kitNumber": "36",
+            "name": "מתאו דרמיאן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "42494",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665564.webp')",
+            "kitNumber": "6",
+            "name": "סטפן דה פריי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "55700",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665559.webp')",
+            "kitNumber": "14",
+            "name": "מילאן שקריניאר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "52922",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665570.webp')",
+            "kitNumber": "20",
+            "name": "רובין גוזנס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "57371",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665548.webp')",
+            "kitNumber": "3",
+            "name": "אלסנדרו בסטוני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "56168",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665551.webp')",
+            "kitNumber": "22",
+            "name": "דנזל דומפריס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "56658",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665566.webp')",
+            "kitNumber": "0",
+            "name": "פדריקו דימארקו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "48695",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665552.webp')",
+            "kitNumber": "3",
+            "name": "דנילו דאמברוזיו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "46412",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665568.webp')",
+            "kitNumber": "15",
+            "name": "פרנצ'סקו אצ'רבי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "56588",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665571.webp')",
+            "kitNumber": "0",
+            "name": "רוברטו גליארדיני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "51210",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665555.webp')",
+            "kitNumber": "10",
+            "name": "הקאן צ'להאנולו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "49044",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665560.webp')",
+            "kitNumber": "11",
+            "name": "מרצלו ברוזוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "54124",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665563.webp')",
+            "kitNumber": "18",
+            "name": "ניקולו בארלה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "44170",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665553.webp')",
+            "kitNumber": "7",
+            "name": "הנריך מחיטריאן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "37624",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665546.webp')",
+            "kitNumber": "10",
+            "name": "אדין דז'קו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "59264",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665558.webp')",
+            "kitNumber": "22",
+            "name": "לאוטרו מרטינס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "44290",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665572.webp')",
+            "kitNumber": "9",
+            "name": "רומלו לוקאקו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "56567",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665556.webp')",
+            "kitNumber": "16",
+            "name": "חואקין קוראה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "107"
+          },
+          {
+            "id": "59339",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665423.webp')",
+            "kitNumber": "23",
+            "name": "קרלו פינסוליו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "38768",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665372.webp')",
+            "kitNumber": "1",
+            "name": "וויצ'ך שצ'סני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "45501",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665393.webp')",
+            "kitNumber": "36",
+            "name": "מתיאה פרין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "46809",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665353.webp')",
+            "kitNumber": "12",
+            "name": "אלכס סנדרו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "40246",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665375.webp')",
+            "kitNumber": "19",
+            "name": "לאונרדו בונוצ'י",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "32497",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665371.webp')",
+            "kitNumber": "6",
+            "name": "דנילו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "52752",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665369.webp')",
+            "kitNumber": "24",
+            "name": "דניאלה רוגאני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "47291",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665389.webp')",
+            "kitNumber": "2",
+            "name": "מתיאה דה שיליו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "60080",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665361.webp')",
+            "kitNumber": "3",
+            "name": "ברמר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "68113",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665417.webp')",
+            "kitNumber": "15",
+            "name": "פדריקו גאטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "40272",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665373.webp')",
+            "kitNumber": "11",
+            "name": "חואן קוודראדו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "49441",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665352.webp')",
+            "kitNumber": "25",
+            "name": "אדריאן ראביו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "55897",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665382.webp')",
+            "kitNumber": "5",
+            "name": "מנואל לוקאטלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "34347",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665354.webp')",
+            "kitNumber": "22",
+            "name": "אנחל די מריה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "47166",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665419.webp')",
+            "kitNumber": "6",
+            "name": "פול פוגבה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "65188",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665401.webp')",
+            "kitNumber": "44",
+            "name": "ניקולו פאג'יולי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "49453",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665420.webp')",
+            "kitNumber": "17",
+            "name": "פיליפ קוסטיץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "68324",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665416.webp')",
+            "kitNumber": "20",
+            "name": "פאביו מירטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "51854",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665380.webp')",
+            "kitNumber": "32",
+            "name": "לאנדרו פארדס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "68806",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665365.webp')",
+            "kitNumber": "42",
+            "name": "אנצו ברנצ'אה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "57172",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665381.webp')",
+            "kitNumber": "18",
+            "name": "מויסה קין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "67127",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/775083.webp')",
+            "kitNumber": "33",
+            "name": "מרלי אקה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "60340",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665367.webp')",
+            "kitNumber": "9",
+            "name": "דושאן ולאחוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "65972",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665422.webp')",
+            "kitNumber": "21",
+            "name": "קאיו ג'ורג'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "56539",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665418.webp')",
+            "kitNumber": "7",
+            "name": "פדריקו קייזה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "66979",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665394.webp')",
+            "kitNumber": "30",
+            "name": "מתיאס סולה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "48485",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665360.webp')",
+            "kitNumber": "14",
+            "name": "ארקדיוש מיליק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "68771",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665408.webp')",
+            "kitNumber": "16",
+            "name": "סמואל אילינג",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "108"
+          },
+          {
+            "id": "67471",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665340.webp')",
+            "kitNumber": "31",
+            "name": "מריוס אדאמוניס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "66314",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665335.webp')",
+            "kitNumber": "1",
+            "name": "לואיס מקסימליאנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "52753",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665331.webp')",
+            "kitNumber": "23",
+            "name": "אלסייד הוסאי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "67369",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/775083.webp')",
+            "kitNumber": "16",
+            "name": "דמיטרי קמנוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "54978",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665346.webp')",
+            "kitNumber": "4",
+            "name": "פאטריק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "48969",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1610894.webp')",
+            "kitNumber": "46",
+            "name": "אלסיו רומאניולי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "37073",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665350.webp')",
+            "kitNumber": "26",
+            "name": "שטפן ראדו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "57910",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665338.webp')",
+            "kitNumber": "29",
+            "name": "מנואל לצארי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "68137",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665339.webp')",
+            "kitNumber": "34",
+            "name": "מריו גילה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "53929",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665332.webp')",
+            "kitNumber": "32",
+            "name": "דנילו קטאלדי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "52986",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665327.webp')",
+            "kitNumber": "0",
+            "name": "אדם מארושיץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "53934",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665345.webp')",
+            "kitNumber": "21",
+            "name": "סרגיי מילינקוביץ'-סאביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "59936",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665333.webp')",
+            "kitNumber": "88",
+            "name": "טומה באסיץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "53027",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665344.webp')",
+            "kitNumber": "5",
+            "name": "מתיאס וסינו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "46636",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665342.webp')",
+            "kitNumber": "6",
+            "name": "מרקוס אנטוניו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "38552",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665347.webp')",
+            "kitNumber": "9",
+            "name": "פדרו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "63524",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665337.webp')",
+            "kitNumber": "18",
+            "name": "לוקה רומרו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "50451",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665348.webp')",
+            "kitNumber": "7",
+            "name": "פליפה אנדרסון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "44537",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665334.webp')",
+            "kitNumber": "10",
+            "name": "לואיס אלברטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "41751",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665349.webp')",
+            "kitNumber": "17",
+            "name": "צ'ירו אימובילה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "58001",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665343.webp')",
+            "kitNumber": "20",
+            "name": "מתיאה זקאני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "109"
+          },
+          {
+            "id": "62074",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664189.webp')",
+            "kitNumber": "1",
+            "name": "מרקו בלבה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "62117",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664213.webp')",
+            "kitNumber": "21",
+            "name": "פדריקו בראנקוליני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "62094",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664199.webp')",
+            "kitNumber": "30",
+            "name": "ולדמירו פאלקונה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "39074",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664191.webp')",
+            "kitNumber": "13",
+            "name": "אלסנדרו טויה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "60456",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664217.webp')",
+            "kitNumber": "3",
+            "name": "קסטריוט דרמאקו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "67476",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664192.webp')",
+            "kitNumber": "25",
+            "name": "אנטוניו גאלו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "67472",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664200.webp')",
+            "kitNumber": "17",
+            "name": "ולנטין גנדריי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "68231",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664212.webp')",
+            "kitNumber": "6",
+            "name": "פדריקו באצ'ירוטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "62353",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664208.webp')",
+            "kitNumber": "5",
+            "name": "מרין פונגראציץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "47913",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664211.webp')",
+            "kitNumber": "93",
+            "name": "סמואל אומטיטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "55781",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664196.webp')",
+            "kitNumber": "97",
+            "name": "ג'וזפה פצלה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "48919",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664210.webp')",
+            "kitNumber": "4",
+            "name": "סימונה רומאניולי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "65870",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664216.webp')",
+            "kitNumber": "18",
+            "name": "פייטרו  צ'קארוני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "53916",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664190.webp')",
+            "kitNumber": "29",
+            "name": "אלכסיס בלין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "62201",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664194.webp')",
+            "kitNumber": "27",
+            "name": "גבריאל סטרפצה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "67474",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664207.webp')",
+            "kitNumber": "42",
+            "name": "מורטן חיולמאנד",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "66621",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664198.webp')",
+            "kitNumber": "20",
+            "name": "דניאל סאמק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "50302",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664214.webp')",
+            "kitNumber": "11",
+            "name": "פדריקו די פראנצ'סקו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "65506",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664203.webp')",
+            "kitNumber": "7",
+            "name": "כריסטופר אסקילדסן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "68065",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664215.webp')",
+            "kitNumber": "14",
+            "name": "פוריר יוהאן הלגסון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "68232",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664201.webp')",
+            "kitNumber": "16",
+            "name": "חואן גונזאלס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "68234",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664206.webp')",
+            "kitNumber": "80",
+            "name": "מדסון ברישה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "66331",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664202.webp')",
+            "kitNumber": "32",
+            "name": "יוסף מאלח",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "69226",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664220.webp')",
+            "kitNumber": "84",
+            "name": "תומאסו קסאנדרו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "63431",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664205.webp')",
+            "kitNumber": "9",
+            "name": "לורנצו קולומבו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "68064",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664193.webp')",
+            "kitNumber": "77",
+            "name": "אסאן קיסאי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "64473",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664204.webp')",
+            "kitNumber": "22",
+            "name": "לאמק בנדה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "59608",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664219.webp')",
+            "kitNumber": "28",
+            "name": "רמי אודין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "69211",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664195.webp')",
+            "kitNumber": "31",
+            "name": "ג'ואל פירסון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "110"
+          },
+          {
+            "id": "59348",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664062.webp')",
+            "kitNumber": "31",
+            "name": "פרנצ'סקו רוסי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "60584",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664053.webp')",
+            "kitNumber": "1",
+            "name": "חואן מוסו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "52092",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664060.webp')",
+            "kitNumber": "57",
+            "name": "מרקו ספורטיילו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "51872",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664064.webp')",
+            "kitNumber": "2",
+            "name": "רפאל טולוי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "52089",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664051.webp')",
+            "kitNumber": "33",
+            "name": "האנס האטבור",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "53275",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664050.webp')",
+            "kitNumber": "77",
+            "name": "דוידה זפאקוסטה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "62303",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664055.webp')",
+            "kitNumber": "3",
+            "name": "יואכים מיילה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "55986",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664046.webp')",
+            "kitNumber": "19",
+            "name": "בראט ג'ימסיטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "52838",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664054.webp')",
+            "kitNumber": "6",
+            "name": "חוסה לואיס פלומינו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "64938",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664061.webp')",
+            "kitNumber": "22",
+            "name": "מתיאו רוג'רי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "66895",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664048.webp')",
+            "kitNumber": "42",
+            "name": "ג'יורג'יו סקאלביני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "64118",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664047.webp')",
+            "kitNumber": "93",
+            "name": "ברנדון סופי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "61016",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664059.webp')",
+            "kitNumber": "28",
+            "name": "מריח דמיראל",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "49704",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664057.webp')",
+            "kitNumber": "15",
+            "name": "מארטן דה רון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "52309",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664058.webp')",
+            "kitNumber": "88",
+            "name": "מריו פשאליץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "66453",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664065.webp')",
+            "kitNumber": "7",
+            "name": "תון קופמיינרס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "67173",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664045.webp')",
+            "kitNumber": "13",
+            "name": "אדרסון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "46564",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664056.webp')",
+            "kitNumber": "9",
+            "name": "לואיס מוריאל",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "51312",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664049.webp')",
+            "kitNumber": "91",
+            "name": "דובאן ספאטה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "55108",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664052.webp')",
+            "kitNumber": "10",
+            "name": "ז'רמי בוגה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "57340",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664044.webp')",
+            "kitNumber": "11",
+            "name": "אדמולה לוקמן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "68402",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664063.webp')",
+            "kitNumber": "17",
+            "name": "רסמוס הויילונד",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "69366",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/948273.webp')",
+            "kitNumber": "23",
+            "name": "לוקאס וורליקי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "113"
+          },
+          {
+            "id": "53474",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1663954.webp')",
+            "kitNumber": "1",
+            "name": "אלכס מרט",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "67371",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664025.webp')",
+            "kitNumber": "12",
+            "name": "דוידה מרפלה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "68688",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/948273.webp')",
+            "kitNumber": "16",
+            "name": "הוברט הידיסיאק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "53461",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664039.webp')",
+            "kitNumber": "95",
+            "name": "פיירלואיג'י גוליני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "66400",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664032.webp')",
+            "kitNumber": "5",
+            "name": "חואן חסוס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "65113",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664018.webp')",
+            "kitNumber": "13",
+            "name": "אמיר רחמני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "52750",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664035.webp')",
+            "kitNumber": "6",
+            "name": "מריו רוי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "59739",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664022.webp')",
+            "kitNumber": "22",
+            "name": "ג'ובאני די לורנצו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "68068",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664041.webp')",
+            "kitNumber": "3",
+            "name": "קים מין ג'ה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "58518",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1634491.webp')",
+            "kitNumber": "17",
+            "name": "מתיאס אוליברה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "67095",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664034.webp')",
+            "kitNumber": "55",
+            "name": "לאו אוסטיגארד",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "51288",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664019.webp')",
+            "kitNumber": "19",
+            "name": "בארטוש ברשינסקי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "56654",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664026.webp')",
+            "kitNumber": "4",
+            "name": "דייגו דמה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "50288",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664038.webp')",
+            "kitNumber": "20",
+            "name": "פיוטר ז'ילינסקי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "57993",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664037.webp')",
+            "kitNumber": "68",
+            "name": "סטניסלב לובוטקה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "62082",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664016.webp')",
+            "kitNumber": "7",
+            "name": "אליף אלמאס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "68093",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664031.webp')",
+            "kitNumber": "77",
+            "name": "חביצה קברצחאליה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "55147",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/948273.webp')",
+            "kitNumber": "99",
+            "name": "זמבו אנגיסה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "60484",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664033.webp')",
+            "kitNumber": "91",
+            "name": "טונגי נדומבלה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "69557",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664040.webp')",
+            "kitNumber": "31",
+            "name": "קארים זדאקה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "54662",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664036.webp')",
+            "kitNumber": "21",
+            "name": "מתיאו פוליטאנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "57603",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664027.webp')",
+            "kitNumber": "11",
+            "name": "הירבינג לוסאנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "58526",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664042.webp')",
+            "kitNumber": "9",
+            "name": "ויקטור אוסימן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "68069",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664017.webp')",
+            "kitNumber": "23",
+            "name": "אלסיו זרבין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "68092",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664024.webp')",
+            "kitNumber": "70",
+            "name": "ג'יאנלוקה גייטאנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "56516",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664023.webp')",
+            "kitNumber": "18",
+            "name": "ג'ובאני סימאונה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "61377",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664020.webp')",
+            "kitNumber": "81",
+            "name": "ג'אקומו ראספדורי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "114"
+          },
+          {
+            "id": "62205",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664155.webp')",
+            "kitNumber": "22",
+            "name": "אלסנדרו ברארדי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "64266",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664168.webp')",
+            "kitNumber": "1",
+            "name": "לורנצו מונטיפו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "50964",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664176.webp')",
+            "kitNumber": "34",
+            "name": "סימונה פרילי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "40285",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664161.webp')",
+            "kitNumber": "5",
+            "name": "דוידה פראוני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "49070",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664180.webp')",
+            "kitNumber": "17",
+            "name": "פדריקו צק'ריני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "59292",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664179.webp')",
+            "kitNumber": "27",
+            "name": "פאבל דוידוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "67120",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664163.webp')",
+            "kitNumber": "42",
+            "name": "דייגו קופולה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "68130",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664157.webp')",
+            "kitNumber": "3",
+            "name": "ג'וש דוייג",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "59813",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664156.webp')",
+            "kitNumber": "23",
+            "name": "ג'אנג'קומו מניאני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "68354",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664166.webp')",
+            "kitNumber": "32",
+            "name": "חואן קבאל",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "68401",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664154.webp')",
+            "kitNumber": "6",
+            "name": "איסאק האיין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "57538",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664178.webp')",
+            "kitNumber": "29",
+            "name": "פאביו דפאולי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "64239",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664162.webp')",
+            "kitNumber": "2",
+            "name": "דיובייסו זיפוק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "34044",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664169.webp')",
+            "kitNumber": "4",
+            "name": "מיגל ולוסו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "54927",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664164.webp')",
+            "kitNumber": "8",
+            "name": "דרקו לזוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "67272",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664182.webp')",
+            "kitNumber": "24",
+            "name": "פיליפו טראצ'יאנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "57757",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664150.webp')",
+            "kitNumber": "61",
+            "name": "אדריאן טאמז",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "68243",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664153.webp')",
+            "kitNumber": "77",
+            "name": "איברהים סולימאנה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "42866",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664175.webp')",
+            "kitNumber": "7",
+            "name": "סימונה ורדי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "64603",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664149.webp')",
+            "kitNumber": "10",
+            "name": "אדין חרוסטיץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "56056",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664152.webp')",
+            "kitNumber": "33",
+            "name": "אונדריי דודה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "68520",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664151.webp')",
+            "kitNumber": "28",
+            "name": "אוליבר אבידגארד",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "66383",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1643219.webp')",
+            "kitNumber": "9",
+            "name": "תומאס הנרי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "54371",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664185.webp')",
+            "kitNumber": "11",
+            "name": "קווין לזניה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "48666",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664174.webp')",
+            "kitNumber": "19",
+            "name": "מילאן דוריץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "66338",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664167.webp')",
+            "kitNumber": "30",
+            "name": "יאיא קאלון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "69228",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664158.webp')",
+            "kitNumber": "25",
+            "name": "ג'יידן בראף",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "60852",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664177.webp')",
+            "kitNumber": "26",
+            "name": "סיריל אנגונג",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "69340",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664148.webp')",
+            "kitNumber": "38",
+            "name": "אדולפו גאיץ",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "116"
+          },
+          {
+            "id": "63030",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665316.webp')",
+            "kitNumber": "1",
+            "name": "סיפריאן טאטארושאנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "35598",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665303.webp')",
+            "kitNumber": "83",
+            "name": "אנטוניו מיראנטה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "37992",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665315.webp')",
+            "kitNumber": "24",
+            "name": "סימון קאר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "55119",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665308.webp')",
+            "kitNumber": "2",
+            "name": "דוידה קלאבריה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "57765",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665319.webp')",
+            "kitNumber": "5",
+            "name": "פודה באלו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "55965",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665321.webp')",
+            "kitNumber": "23",
+            "name": "פיקאיו טומורי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "65046",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665320.webp')",
+            "kitNumber": "20",
+            "name": "פייר קאלולו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "62166",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665314.webp')",
+            "kitNumber": "46",
+            "name": "מתיאו גאביה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "56548",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665325.webp')",
+            "kitNumber": "19",
+            "name": "תיאו הרננדס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "45475",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665299.webp')",
+            "kitNumber": "25",
+            "name": "אלסנדרו פלורנצי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "63119",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665307.webp')",
+            "kitNumber": "28",
+            "name": "מאליק טיאו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "62281",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665318.webp')",
+            "kitNumber": "21",
+            "name": "סרג'יניו דסט",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "51363",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665311.webp')",
+            "kitNumber": "14",
+            "name": "טיימואה בקאיוקו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "58068",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665305.webp')",
+            "kitNumber": "10",
+            "name": "ברהים דיאס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "55183",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665323.webp')",
+            "kitNumber": "33",
+            "name": "ראדה קרוניץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "59742",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665297.webp')",
+            "kitNumber": "4",
+            "name": "איסמעל בנאסר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "63064",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665298.webp')",
+            "kitNumber": "56",
+            "name": "אלכסיס סלמאקרס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "60689",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665317.webp')",
+            "kitNumber": "8",
+            "name": "סנדרו טונאלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "62618",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665322.webp')",
+            "kitNumber": "90",
+            "name": "צ'ארלס דה קטלארה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "61028",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665312.webp')",
+            "kitNumber": "7",
+            "name": "יאסין אדלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "64582",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665326.webp')",
+            "kitNumber": "32",
+            "name": "תומאסו פובגה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "66878",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665304.webp')",
+            "kitNumber": "40",
+            "name": "אסטר ורנקס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "43151",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665296.webp')",
+            "kitNumber": "9",
+            "name": "אוליבייה ז'ירו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "59937",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665324.webp')",
+            "kitNumber": "17",
+            "name": "רפאל ליאאו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "51378",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665301.webp')",
+            "kitNumber": "12",
+            "name": "אנטה רביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "30088",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665310.webp')",
+            "kitNumber": "11",
+            "name": "זלאטן איברהימוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "51047",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665309.webp')",
+            "kitNumber": "27",
+            "name": "דיבוק אוריגי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "64260",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665306.webp')",
+            "kitNumber": "30",
+            "name": "ג'וניור מסיאס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "119"
+          },
+          {
+            "id": "35287",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664447.webp')",
+            "kitNumber": "1",
+            "name": "רוי פטריסיו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "67481",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664445.webp')",
+            "kitNumber": "63",
+            "name": "פייטרו בואר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "68129",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664439.webp')",
+            "kitNumber": "99",
+            "name": "מילה סבילאר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "41433",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664430.webp')",
+            "kitNumber": "6",
+            "name": "כריס סמולינג",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "54143",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664448.webp')",
+            "kitNumber": "2",
+            "name": "ריק קרסדרופ",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "62208",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664440.webp')",
+            "kitNumber": "24",
+            "name": "מראש קומבולה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "62014",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664446.webp')",
+            "kitNumber": "3",
+            "name": "רוג'ר איבנייס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "58932",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664408.webp')",
+            "kitNumber": "23",
+            "name": "ג'אנלוקה מנצ'יני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "51448",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664436.webp')",
+            "kitNumber": "37",
+            "name": "לאונרדו ספינאצולה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "63970",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664424.webp')",
+            "kitNumber": "19",
+            "name": "זקי צ'ליק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "54806",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664420.webp')",
+            "kitNumber": "3",
+            "name": "דייגו יורנטה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "41291",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664442.webp')",
+            "kitNumber": "8",
+            "name": "נמניה מאטיץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "49046",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664403.webp')",
+            "kitNumber": "4",
+            "name": "בראיין כריסטנטה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "65414",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664441.webp')",
+            "kitNumber": "59",
+            "name": "ניקולה זאלווסקי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "66366",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664398.webp')",
+            "kitNumber": "52",
+            "name": "אדוארדו בובה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "54663",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664437.webp')",
+            "kitNumber": "7",
+            "name": "לורנצו פלגריני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "65410",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664397.webp')",
+            "kitNumber": "55",
+            "name": "אברימה דארבואה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "39266",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664412.webp')",
+            "kitNumber": "25",
+            "name": "ג'ורג'יניו ויינאלדום",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "66987",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664435.webp')",
+            "kitNumber": "62",
+            "name": "כריסטיאן וולפאטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "62234",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664438.webp')",
+            "kitNumber": "20",
+            "name": "מאדי קמארה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "40277",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664443.webp')",
+            "kitNumber": "92",
+            "name": "סטפן אל שעראווי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "55932",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664449.webp')",
+            "kitNumber": "9",
+            "name": "תאמי אברהם",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "49095",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664444.webp')",
+            "kitNumber": "21",
+            "name": "פאולו דיבאלה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "53374",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664399.webp')",
+            "kitNumber": "11",
+            "name": "אנדראה בלוטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "121"
+          },
+          {
+            "id": "40259",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642092.webp')",
+            "kitNumber": "20",
+            "name": "דניאלה פאדלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "51238",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642091.webp')",
+            "kitNumber": "1",
+            "name": "מרקו סילבסטרי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "68228",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642093.webp')",
+            "kitNumber": "99",
+            "name": "אדוארדו פיאנה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "55028",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1261546.webp')",
+            "kitNumber": "26",
+            "name": "פיליפ בנקוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "66974",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642113.webp')",
+            "kitNumber": "18",
+            "name": "נהואן פרז",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "68052",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642110.webp')",
+            "kitNumber": "2",
+            "name": "פסטי אבוסלה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "54905",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642116.webp')",
+            "kitNumber": "3",
+            "name": "אדם משינה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "66333",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642106.webp')",
+            "kitNumber": "13",
+            "name": "לינומה אודוגי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "68054",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642103.webp')",
+            "kitNumber": "14",
+            "name": "ג'יימס אבנקווה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "60126",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642104.webp')",
+            "kitNumber": "29",
+            "name": "יאקה ביול",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "60124",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642109.webp')",
+            "kitNumber": "50",
+            "name": "רודריגו בקאו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "68056",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1634212.webp')",
+            "kitNumber": "23",
+            "name": "אנסו אבוסה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "68229",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642115.webp')",
+            "kitNumber": "67",
+            "name": "אקסל גוסאנד",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "55504",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642114.webp')",
+            "kitNumber": "19",
+            "name": "קינגסלי אהיזובואה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "69131",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/775083.webp')",
+            "kitNumber": "15",
+            "name": "לאונרדו בוטה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "40365",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642119.webp')",
+            "kitNumber": "8",
+            "name": "מאטו יאיאלו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "46778",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642133.webp')",
+            "kitNumber": "37",
+            "name": "רוברטו פריירה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "57390",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642120.webp')",
+            "kitNumber": "11",
+            "name": "וואלאס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "63300",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642126.webp')",
+            "kitNumber": "24",
+            "name": "לזאר סמארדזיץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "68053",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642130.webp')",
+            "kitNumber": "4",
+            "name": "סאנדי לובריץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "40263",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642117.webp')",
+            "kitNumber": "5",
+            "name": "טולגאי עלי ארסלן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "49133",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1322162.webp')",
+            "kitNumber": "26",
+            "name": "פלוריאן תובאן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "47479",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1552554.webp')",
+            "kitNumber": "10",
+            "name": "ג'רארד דאולופאו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "53284",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642151.webp')",
+            "kitNumber": "7",
+            "name": "אייזק סקסס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "66458",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642157.webp')",
+            "kitNumber": "9",
+            "name": "בטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "56656",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642141.webp')",
+            "kitNumber": "30",
+            "name": "איליה נסטורובסקי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "67377",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642137.webp')",
+            "kitNumber": "80",
+            "name": "סימונה פאפונדי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "69132",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642146.webp')",
+            "kitNumber": "39",
+            "name": "ויוואלדו סמדו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "122"
+          },
+          {
+            "id": "66323",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665451.webp')",
+            "kitNumber": "89",
+            "name": "לוקאס ג'מלו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "48491",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665425.webp')",
+            "kitNumber": "1",
+            "name": "אטריט ברישה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "65130",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665443.webp')",
+            "kitNumber": "32",
+            "name": "וניה מילינקוביץ-סאביץ",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "50767",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665482.webp')",
+            "kitNumber": "26",
+            "name": "קופי דג'ידג'י",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "56472",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665424.webp')",
+            "kitNumber": "0",
+            "name": "אולה איינה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "62058",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665437.webp')",
+            "kitNumber": "17",
+            "name": "ווילפריד סטפן סינגו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "44877",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665485.webp')",
+            "kitNumber": "13",
+            "name": "ריקרדו רודריגס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "56217",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665457.webp')",
+            "kitNumber": "27",
+            "name": "מרגים וויוודה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "59129",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665428.webp')",
+            "kitNumber": "4",
+            "name": "אלסנדרו בונג'ורנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "64784",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665435.webp')",
+            "kitNumber": "6",
+            "name": "דויד זימה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "68061",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665432.webp')",
+            "kitNumber": "2",
+            "name": "בראיין באיאיה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "62280",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665481.webp')",
+            "kitNumber": "2",
+            "name": "פר סחורס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "58451",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665430.webp')",
+            "kitNumber": "0",
+            "name": "אנדרו גראבילון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "56063",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665483.webp')",
+            "kitNumber": "77",
+            "name": "קרול לינטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "51308",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665439.webp')",
+            "kitNumber": "19",
+            "name": "ולנטינו לזארו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "65855",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665475.webp')",
+            "kitNumber": "28",
+            "name": "סמואלה ריצ'י",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "60304",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665467.webp')",
+            "kitNumber": "49",
+            "name": "נמניה ראדוניץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "60957",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665455.webp')",
+            "kitNumber": "21",
+            "name": "מישל אדופו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "58278",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665463.webp')",
+            "kitNumber": "16",
+            "name": "ניקולה ולאשיץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "50301",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665427.webp')",
+            "kitNumber": "15",
+            "name": "אלכסיי מיראנצ'וק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "64375",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665426.webp')",
+            "kitNumber": "14",
+            "name": "איבן איליץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "59921",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665484.webp')",
+            "kitNumber": "14",
+            "name": "רונאלדו ויירה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "51625",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665431.webp')",
+            "kitNumber": "9",
+            "name": "אנטוניו סנאבריה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "67203",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665436.webp')",
+            "kitNumber": "23",
+            "name": "דמבה סק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "57303",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665477.webp')",
+            "kitNumber": "11",
+            "name": "פייטרו פלגרי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "56515",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665445.webp')",
+            "kitNumber": "7",
+            "name": "יאן קאראמו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4698"
+          },
+          {
+            "id": "64480",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665520.webp')",
+            "kitNumber": "34",
+            "name": "ארדיאן עיסמאלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "65140",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642233.webp')",
+            "kitNumber": "13",
+            "name": "ג'וליאלמו ויקאריו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "62187",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665536.webp')",
+            "kitNumber": "1",
+            "name": "סמואלה פריסאן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "52751",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665526.webp')",
+            "kitNumber": "26",
+            "name": "לורנצו טונלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "66903",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665538.webp')",
+            "kitNumber": "65",
+            "name": "פביאנו פריסי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "67202",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665528.webp')",
+            "kitNumber": "3",
+            "name": "ליבראטו קאצ'צה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "53419",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665539.webp')",
+            "kitNumber": "30",
+            "name": "פטאר סטויינוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "66963",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665542.webp')",
+            "kitNumber": "6",
+            "name": "קוני דה ווינטר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "52939",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665524.webp')",
+            "kitNumber": "23",
+            "name": "טיירון אבואי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "60110",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665535.webp')",
+            "kitNumber": "33",
+            "name": "סבסטיאנו לופרטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "68241",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/948273.webp')",
+            "kitNumber": "36",
+            "name": "גבריאל גוארינו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "62184",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665534.webp')",
+            "kitNumber": "4",
+            "name": "סבסטיאן ואלוקייביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "66316",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665540.webp')",
+            "kitNumber": "25",
+            "name": "פיליפו בנדינלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "55969",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665532.webp')",
+            "kitNumber": "32",
+            "name": "ניקולאס האס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "52781",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665527.webp')",
+            "kitNumber": "8",
+            "name": "ליאם הנדרסון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "67138",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665525.webp')",
+            "kitNumber": "21",
+            "name": "יאקופו פאציני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "62282",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665544.webp')",
+            "kitNumber": "18",
+            "name": "רזבאן מארין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "68238",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665521.webp')",
+            "kitNumber": "20",
+            "name": "דוצ'יו אינוסנטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "53276",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665519.webp')",
+            "kitNumber": "88",
+            "name": "אלברטו גראסי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "46351",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665522.webp')",
+            "kitNumber": "11",
+            "name": "ז'אן דניאל אקפרו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "67468",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665523.webp')",
+            "kitNumber": "35",
+            "name": "טומאסו בלדאנזי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "43702",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665531.webp')",
+            "kitNumber": "23",
+            "name": "מתיאה דסטרו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "68058",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665545.webp')",
+            "kitNumber": "35",
+            "name": "תומאסו בלדאנזי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "66350",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665529.webp')",
+            "kitNumber": "9",
+            "name": "מרטין סטריאנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "68060",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665533.webp')",
+            "kitNumber": "28",
+            "name": "ניקולו קמביאג'י",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "55018",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665530.webp')",
+            "kitNumber": "14",
+            "name": "מרקו פיאצה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "40317",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665541.webp')",
+            "kitNumber": "10",
+            "name": "פרנצ'סקו קאפוטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "57576",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665537.webp')",
+            "kitNumber": "55",
+            "name": "עמנואל ויגנטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "61282",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665543.webp')",
+            "kitNumber": "20",
+            "name": "רוברטו פיקולי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "64480",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665520.webp')",
+            "kitNumber": "34",
+            "name": "ארדיאן עיסמאלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "65140",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1642233.webp')",
+            "kitNumber": "13",
+            "name": "ג'וליאלמו ויקאריו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "62187",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665536.webp')",
+            "kitNumber": "1",
+            "name": "סמואלה פריסאן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "52751",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665526.webp')",
+            "kitNumber": "26",
+            "name": "לורנצו טונלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "66903",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665538.webp')",
+            "kitNumber": "65",
+            "name": "פביאנו פריסי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "67202",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665528.webp')",
+            "kitNumber": "3",
+            "name": "ליבראטו קאצ'צה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "53419",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665539.webp')",
+            "kitNumber": "30",
+            "name": "פטאר סטויינוביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "66963",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665542.webp')",
+            "kitNumber": "6",
+            "name": "קוני דה ווינטר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "52939",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665524.webp')",
+            "kitNumber": "23",
+            "name": "טיירון אבואי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "60110",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665535.webp')",
+            "kitNumber": "33",
+            "name": "סבסטיאנו לופרטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "68241",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/948273.webp')",
+            "kitNumber": "36",
+            "name": "גבריאל גוארינו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "62184",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665534.webp')",
+            "kitNumber": "4",
+            "name": "סבסטיאן ואלוקייביץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "66316",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665540.webp')",
+            "kitNumber": "25",
+            "name": "פיליפו בנדינלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "55969",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665532.webp')",
+            "kitNumber": "32",
+            "name": "ניקולאס האס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "52781",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665527.webp')",
+            "kitNumber": "8",
+            "name": "ליאם הנדרסון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "67138",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665525.webp')",
+            "kitNumber": "21",
+            "name": "יאקופו פאציני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "62282",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665544.webp')",
+            "kitNumber": "18",
+            "name": "רזבאן מארין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "68238",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665521.webp')",
+            "kitNumber": "20",
+            "name": "דוצ'יו אינוסנטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "53276",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665519.webp')",
+            "kitNumber": "88",
+            "name": "אלברטו גראסי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "46351",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665522.webp')",
+            "kitNumber": "11",
+            "name": "ז'אן דניאל אקפרו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "67468",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665523.webp')",
+            "kitNumber": "35",
+            "name": "טומאסו בלדאנזי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "43702",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665531.webp')",
+            "kitNumber": "23",
+            "name": "מתיאה דסטרו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "68058",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665545.webp')",
+            "kitNumber": "35",
+            "name": "תומאסו בלדאנזי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "66350",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665529.webp')",
+            "kitNumber": "9",
+            "name": "מרטין סטריאנו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "68060",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665533.webp')",
+            "kitNumber": "28",
+            "name": "ניקולו קמביאג'י",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "55018",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665530.webp')",
+            "kitNumber": "14",
+            "name": "מרקו פיאצה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "40317",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665541.webp')",
+            "kitNumber": "10",
+            "name": "פרנצ'סקו קאפוטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "57576",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665537.webp')",
+            "kitNumber": "55",
+            "name": "עמנואל ויגנטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "61282",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665543.webp')",
+            "kitNumber": "20",
+            "name": "רוברטו פיקולי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "4928"
+          },
+          {
+            "id": "46682",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664649.webp')",
+            "kitNumber": "30",
+            "name": "ניקולה רבאליה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "56600",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664624.webp')",
+            "kitNumber": "1",
+            "name": "אמיל אודרו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "46492",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664650.webp')",
+            "kitNumber": "29",
+            "name": "ניקולה מורו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "43677",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664626.webp')",
+            "kitNumber": "13",
+            "name": "אנדראה קונטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "62096",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664641.webp')",
+            "kitNumber": "3",
+            "name": "תומאסו אאוג'לו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "51266",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664629.webp')",
+            "kitNumber": "21",
+            "name": "ג'ייסון מורייו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "64641",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664628.webp')",
+            "kitNumber": "2",
+            "name": "ברונו אמיון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "40795",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664627.webp')",
+            "kitNumber": "17",
+            "name": "בראם נויטינק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "66769",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664623.webp')",
+            "kitNumber": "59",
+            "name": "אלסנדרו זאנולי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "65506",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664203.webp')",
+            "kitNumber": "7",
+            "name": "כריסטופר אסקילדסן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "42243",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664645.webp')",
+            "kitNumber": "7",
+            "name": "פיליפ ג'וריצ'יץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "39176",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664642.webp')",
+            "kitNumber": "8",
+            "name": "תומאס רינקון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "58039",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664647.webp')",
+            "kitNumber": "11",
+            "name": "עבדלחמיד סבירי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "67052",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664630.webp')",
+            "kitNumber": "28",
+            "name": "ג'רארד יאפס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "68236",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664636.webp')",
+            "kitNumber": "31",
+            "name": "לורנצו מאלגרידה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "56640",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664633.webp')",
+            "kitNumber": "20",
+            "name": "הארי ווינקס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "68226",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664625.webp')",
+            "kitNumber": "14",
+            "name": "אמיראן אילקאן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "42267",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664640.webp')",
+            "kitNumber": "23",
+            "name": "מנולו גביאדיני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "66152",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664639.webp')",
+            "kitNumber": "9",
+            "name": "מנואל דה לוקה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "34166",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664646.webp')",
+            "kitNumber": "27",
+            "name": "פאביו קוואליארלה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "58939",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664637.webp')",
+            "kitNumber": "37",
+            "name": "מהדי לריס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "59991",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664620.webp')",
+            "kitNumber": "18",
+            "name": "איגנסיו פוסטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "57547",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664648.webp')",
+            "kitNumber": "7",
+            "name": "סם לאמרס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "47744",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664635.webp')",
+            "kitNumber": "11",
+            "name": "חסה רודריגס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5078"
+          },
+          {
+            "id": "40606",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664510.webp')",
+            "kitNumber": "1",
+            "name": "ירואן זואט",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "56601",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664501.webp')",
+            "kitNumber": "69",
+            "name": "ברטלומיי דרגובסקי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "37998",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664523.webp')",
+            "kitNumber": "22",
+            "name": "פדריקו מרקטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "59014",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664527.webp')",
+            "kitNumber": "27",
+            "name": "קלבין אמיין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "64280",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664518.webp')",
+            "kitNumber": "21",
+            "name": "סלבה פרר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "65857",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664502.webp')",
+            "kitNumber": "43",
+            "name": "דמיטריס ניקולאו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "66378",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664499.webp')",
+            "kitNumber": "2",
+            "name": "אמיל הולם",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "61426",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664500.webp')",
+            "kitNumber": "13",
+            "name": "ארקדיוש רצה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "52258",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664514.webp')",
+            "kitNumber": "29",
+            "name": "מתיאה קלדארה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "58448",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664493.webp')",
+            "kitNumber": "4",
+            "name": "אית'ן אמפאדו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "64279",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664517.webp')",
+            "kitNumber": "20",
+            "name": "סימונה בסטוני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "63068",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664503.webp')",
+            "kitNumber": "30",
+            "name": "דניאל מלדיני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "60082",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664512.webp')",
+            "kitNumber": "6",
+            "name": "מהדי בוראביה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "29682",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1644067.webp')",
+            "kitNumber": "7",
+            "name": "יאקופו סאלה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "37958",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1317609.webp')",
+            "kitNumber": "8",
+            "name": "אלבין אקדאל",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "62191",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664526.webp')",
+            "kitNumber": "33",
+            "name": "קווין אגודלו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "62573",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664516.webp')",
+            "kitNumber": "27",
+            "name": "סיימון זורקובסקי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "64683",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664498.webp')",
+            "kitNumber": "18",
+            "name": "אמבלה אנזולה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "64274",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664520.webp')",
+            "kitNumber": "11",
+            "name": "עמנואל ג'יאסי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "64617",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664505.webp')",
+            "kitNumber": "10",
+            "name": "דניאלה ורדה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "64504",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664496.webp')",
+            "kitNumber": "14",
+            "name": "אלדור שומורודוב",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5455"
+          },
+          {
+            "id": "37229",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665283.webp')",
+            "kitNumber": "1",
+            "name": "וינצ'נזו פיורילו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "68123",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1643886.webp')",
+            "kitNumber": "12",
+            "name": "אלסנדרו מיחאי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "39155",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665287.webp')",
+            "kitNumber": "33",
+            "name": "לואיג'י ספה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "32815",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665276.webp')",
+            "kitNumber": "13",
+            "name": "גיז'רמו אוצ'ואה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "55345",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665290.webp')",
+            "kitNumber": "23",
+            "name": "נורברט גיומבר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "34469",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665292.webp')",
+            "kitNumber": "17",
+            "name": "פדריקו פאסיו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "67725",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665288.webp')",
+            "kitNumber": "98",
+            "name": "לורנצו פירולה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "61621",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665278.webp')",
+            "kitNumber": "3",
+            "name": "דומאגוי בראדריץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "63979",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665275.webp')",
+            "kitNumber": "6",
+            "name": "ג'וניור סאמביה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "65860",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665294.webp')",
+            "kitNumber": "30",
+            "name": "פסקאל מאזוצ'י",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "64544",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665289.webp')",
+            "kitNumber": "66",
+            "name": "מתיאו לובאטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "59519",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665281.webp')",
+            "kitNumber": "2",
+            "name": "דילן ברון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "63992",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665293.webp')",
+            "kitNumber": "5",
+            "name": "פלאביוס דאנילוץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "57509",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665285.webp')",
+            "kitNumber": "0",
+            "name": "וויליאם טרוסט-אקונג",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "54904",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665286.webp')",
+            "kitNumber": "18",
+            "name": "לאסאנה קוליבלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "67173",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664045.webp')",
+            "kitNumber": "13",
+            "name": "אדרסון",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "57384",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665277.webp')",
+            "kitNumber": "20",
+            "name": "גריגוריס קסטאנוס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "67225",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664652.webp')",
+            "kitNumber": "8",
+            "name": "אמיל בוהינן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "54565",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665284.webp')",
+            "kitNumber": "10",
+            "name": "טוני וילאנה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "35776",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664653.webp')",
+            "kitNumber": "87",
+            "name": "אנטוניו קנדרבה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "64281",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665273.webp')",
+            "kitNumber": "25",
+            "name": "ג'וליו מאגיורה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "55444",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665291.webp')",
+            "kitNumber": "9",
+            "name": "פדריקו בונאצולי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "68124",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665280.webp')",
+            "kitNumber": "14",
+            "name": "דייגו ולנסיה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "68244",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664654.webp')",
+            "kitNumber": "11",
+            "name": "אריק בות'היים",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "60628",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664655.webp')",
+            "kitNumber": "29",
+            "name": "בואליי דיה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "59288",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1665295.webp')",
+            "kitNumber": "99",
+            "name": "קשישטוף פיונטק",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5745"
+          },
+          {
+            "id": "39985",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664587.webp')",
+            "kitNumber": "25",
+            "name": "ג'אנלוקה פגולו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "37978",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664579.webp')",
+            "kitNumber": "47",
+            "name": "אנדראה קונסילי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "68098",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664575.webp')",
+            "kitNumber": "64",
+            "name": "אלסנדרו רוסו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "58398",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664602.webp')",
+            "kitNumber": "19",
+            "name": "פיליפו רומניה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "56135",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664586.webp')",
+            "kitNumber": "13",
+            "name": "ג'אן מרקו פרארי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "62185",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664595.webp')",
+            "kitNumber": "17",
+            "name": "מרט מולדור",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "59016",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664598.webp')",
+            "kitNumber": "6",
+            "name": "רוג'ריו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "42569",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664589.webp')",
+            "kitNumber": "22",
+            "name": "ג'רמי טוליאן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "56599",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664596.webp')",
+            "kitNumber": "3",
+            "name": "ריקרדו מארצ'יזה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "64282",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664609.webp')",
+            "kitNumber": "28",
+            "name": "מרטין ארליץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "43819",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664603.webp')",
+            "kitNumber": "14",
+            "name": "פדרו אוביאנג",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "56560",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664594.webp')",
+            "kitNumber": "27",
+            "name": "מקסים לופז",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "66348",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664590.webp')",
+            "kitNumber": "16",
+            "name": "דוידה פראטסי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "66154",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664607.webp')",
+            "kitNumber": "7",
+            "name": "מתיאוס הנריקה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "66445",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664569.webp')",
+            "kitNumber": "8",
+            "name": "אבדו חארווי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "68097",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664592.webp')",
+            "kitNumber": "42",
+            "name": "כריסטיאן ת'ורסבדאט",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "63987",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664585.webp')",
+            "kitNumber": "45",
+            "name": "ארמנד לוריין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "50577",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664591.webp')",
+            "kitNumber": "10",
+            "name": "דומניקו ברארדי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "65128",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/775083.webp')",
+            "kitNumber": "0",
+            "name": "בריאן אודוי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "68095",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664571.webp')",
+            "kitNumber": "11",
+            "name": "אגוסטין אלבארס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "68096",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664577.webp')",
+            "kitNumber": "15",
+            "name": "אמיל סיידה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "45504",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664588.webp')",
+            "kitNumber": "92",
+            "name": "גרגויירה דפרל",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "68248",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664593.webp')",
+            "kitNumber": "35",
+            "name": "לוקה ד'אנדראה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "57431",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664578.webp')",
+            "kitNumber": "9",
+            "name": "אנדראה פינמונטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "65853",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664606.webp')",
+            "kitNumber": "10",
+            "name": "נדים בייראמי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "5764"
+          },
+          {
+            "id": "50719",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664475.webp')",
+            "kitNumber": "45",
+            "name": "מוחמדו סאר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "68352",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664457.webp')",
+            "kitNumber": "13",
+            "name": "ג'יאנלוקה סארו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "68441",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664478.webp')",
+            "kitNumber": "12",
+            "name": "מרקו קארנסצ'י",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "66884",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664470.webp')",
+            "kitNumber": "5",
+            "name": "חואן ואסקס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "67599",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664484.webp')",
+            "kitNumber": "3",
+            "name": "עמנואל ואלרי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "48561",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664479.webp')",
+            "kitNumber": "15",
+            "name": "מתיאו ביאנצ'טי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "61376",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664473.webp')",
+            "kitNumber": "17",
+            "name": "לאונרדו סרניקולה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "59851",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664485.webp')",
+            "kitNumber": "18",
+            "name": "פאולו ג'יגליונה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "48172",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1344165.webp')",
+            "kitNumber": "21",
+            "name": "ולאד קיריקש",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "68103",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664451.webp')",
+            "kitNumber": "33",
+            "name": "ג'אקומו קווליאטה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "68223",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664474.webp')",
+            "kitNumber": "44",
+            "name": "לוקה לוקושווילי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "60890",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664450.webp')",
+            "kitNumber": "25",
+            "name": "אלכס פרארי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "67594",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664476.webp')",
+            "kitNumber": "19",
+            "name": "מישל קאסטאגנטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "68100",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664471.webp')",
+            "kitNumber": "23",
+            "name": "כריסטיאן אצ'לה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "68101",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664490.webp')",
+            "kitNumber": "6",
+            "name": "צ'רלס פיקל",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "47571",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664480.webp')",
+            "kitNumber": "28",
+            "name": "סוואליהו מייטה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "49153",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664477.webp')",
+            "kitNumber": "24",
+            "name": "מרקו בנאסי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "67603",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664468.webp')",
+            "kitNumber": "9",
+            "name": "דניאל צ'ופאני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "67595",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664472.webp')",
+            "kitNumber": "10",
+            "name": "כריסטיאן בונאיטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "68106",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664489.webp')",
+            "kitNumber": "74",
+            "name": "פרנק טסדיוט",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "62259",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664467.webp')",
+            "kitNumber": "77",
+            "name": "דייוויד אוקרקה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "52634",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664481.webp')",
+            "kitNumber": "90",
+            "name": "סיריל דסרס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "66905",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664488.webp')",
+            "kitNumber": "20",
+            "name": "פליקס אפנה ג'יאן",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "6097"
+          },
+          {
+            "id": "67604",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664231.webp')",
+            "kitNumber": "16",
+            "name": "מישל די גרגוריו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "47985",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664262.webp')",
+            "kitNumber": "1",
+            "name": "יוג'ניו למאנה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "53437",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664258.webp')",
+            "kitNumber": "89",
+            "name": "אלסיו קראניו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "68247",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664259.webp')",
+            "kitNumber": "91",
+            "name": "אלסנדרו סורנטינו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "41339",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664235.webp')",
+            "kitNumber": "34",
+            "name": "לוקה מארונה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "65212",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664232.webp')",
+            "kitNumber": "26",
+            "name": "ולנטין אנטוב",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "67614",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664243.webp')",
+            "kitNumber": "30",
+            "name": "קרלוס אגוסטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "67610",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664233.webp')",
+            "kitNumber": "2",
+            "name": "ג'יאוליו דונאטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "43307",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664234.webp')",
+            "kitNumber": "5",
+            "name": "לוקה קלדירולה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "57710",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664237.webp')",
+            "kitNumber": "4",
+            "name": "מרלון סנטוס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "68115",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664236.webp')",
+            "kitNumber": "19",
+            "name": "סמואלה בירינדלי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "63038",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664238.webp')",
+            "kitNumber": "3",
+            "name": "פאבלו מארי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "53484",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664239.webp')",
+            "kitNumber": "55",
+            "name": "ארמנדו איצו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "39880",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664241.webp')",
+            "kitNumber": "77",
+            "name": "מרקו דאלסנדרו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "56139",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664242.webp')",
+            "kitNumber": "8",
+            "name": "אנדראה בארבריס",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "61042",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664245.webp')",
+            "kitNumber": "7",
+            "name": "חוסה מאצ'ין",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "67615",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664255.webp')",
+            "kitNumber": "80",
+            "name": "סמואל ויגאנטו",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "67606",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664244.webp')",
+            "kitNumber": "28",
+            "name": "אנדרה קולפאני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "53482",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664246.webp')",
+            "kitNumber": "10",
+            "name": "מתיאה ואלוטי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "56578",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664247.webp')",
+            "kitNumber": "12",
+            "name": "סטפאנו סנסי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "68117",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664249.webp')",
+            "kitNumber": "22",
+            "name": "פיליפו ראנוקיה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "59839",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664248.webp')",
+            "kitNumber": "32",
+            "name": "מתיאו פסינה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "62936",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664250.webp')",
+            "kitNumber": "6",
+            "name": "ניקולו רובאלה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "69257",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664240.webp')",
+            "kitNumber": "11",
+            "name": "פרנקו קארבוני",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "67608",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664253.webp')",
+            "kitNumber": "9",
+            "name": "כריסטיאן גיטקייאר",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "67616",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664254.webp')",
+            "kitNumber": "47",
+            "name": "דני מוטה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "45295",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664251.webp')",
+            "kitNumber": "17",
+            "name": "ג'אנלוקה קפרארי",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "68119",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664252.webp')",
+            "kitNumber": "24",
+            "name": "מירקו מאריץ'",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "67612",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664256.webp')",
+            "kitNumber": "84",
+            "name": "פטריק קיורייה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
+          },
+          {
+            "id": "50471",
+            "img": "url('https://photo.one.co.il/Image/GG/1,1/1664257.webp')",
+            "kitNumber": "37",
+            "name": "אנדראה פטאנייה",
+            "role": "שוער",
+            "market_value": 30000,
+            "teamId": "7189"
           }
       
 ]
