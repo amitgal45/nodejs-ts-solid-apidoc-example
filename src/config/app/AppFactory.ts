@@ -1,6 +1,7 @@
 import express, { Application, Request, Response, NextFunction } from "express";
 import LoggerFactory from "./LoggerFactory";
 import { RoutesFactory } from "./RoutesFactory";
+import cors from 'cors';
 
 class AppFactory {
   public static create(): Application {
@@ -9,7 +10,7 @@ class AppFactory {
     // Middleware
     app.use(express.json()); // parse JSON bodies
     app.use(express.urlencoded({ extended: true })); // parse URL-encoded bodies
-
+    app.use(cors())
     // Logger
     LoggerFactory.create(app);
 

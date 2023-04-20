@@ -5,27 +5,16 @@
         "nationId":"1"
     },
     {
-        "id":"3",
+        "id":"5",
         "name":"ליגה אנגלית ראשונה",
         "nationId":"2"
         
-    },
-    {
-        "id":"4",
-        "name":"Spanish Premier League",
-        "nationId":"3"
-
     },
     {
         "id":"8",
         "name":"ליגת איטלקית ראשונה",
         "nationId":"4"
 
-    },
-    {
-        "id":"10",
-        "name":"ליגה ספרדית ראשונה",
-        "nationId":"3"
     },
     {
         "id":"2",
